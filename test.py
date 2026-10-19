@@ -19,7 +19,7 @@ class Programm(QMainWindow):
         self.video_widget.hide()
 
         self.btn_new.clicked.connect(self.new_video)
-        self.folders_list.itemDoubleClicked.connect(self.play_video)
+        self.folders_list.itemDoubleClicked.connect(self.play_cliked_video)
         self.btn_new.setFocusPolicy(Qt.FocusPolicy.NoFocus)
         self.btn_settings.setFocusPolicy(Qt.FocusPolicy.NoFocus)
         self.colections_list.setFocusPolicy(Qt.FocusPolicy.NoFocus)
