@@ -34,7 +34,7 @@
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>free-icon-font-plus-3917757.png</normaloff>free-icon-font-plus-3917757.png</iconset>
+      <normaloff>photos/free-icon-font-plus-3917757.png</normaloff>photos/free-icon-font-plus-3917757.png</iconset>
     </property>
    </widget>
    <widget class="QLineEdit" name="search_line">
@@ -61,7 +61,7 @@
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>free-icon-font-settings-3917110.png</normaloff>free-icon-font-settings-3917110.png</iconset>
+      <normaloff>photos/free-icon-font-settings-3917110.png</normaloff>photos/free-icon-font-settings-3917110.png</iconset>
     </property>
    </widget>
    <widget class="QListWidget" name="colections_list">
